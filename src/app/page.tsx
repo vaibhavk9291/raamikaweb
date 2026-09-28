@@ -97,19 +97,19 @@ export default function Home() {
             </div>
             <div className="info-item">
               <h4>CIN</h4>
-              <p>[ADD VERIFIED CIN]</p>
+              <p>63990MP2026PTC085695</p>
             </div>
             <div className="info-item">
               <h4>Registered Office</h4>
-              <p>[ADD VERIFIED REGISTERED ADDRESS]</p>
+              <p>RAAMIKA SMART SOLUTIONS PRIVATE LIMITED 11D, Floor 4, Cabin 4, Sampat Farms, Opp Agrawal, Bicholi Mardana, Indore, Indore- 452016, Madhya Pradesh</p>
             </div>
             <div className="info-item">
               <h4>Email</h4>
-              <p>[OFFICIAL COMPANY EMAIL]</p>
+              <p>contact@hellosakhee.com</p>
             </div>
             <div className="info-item">
               <h4>Phone</h4>
-              <p>[OFFICIAL PHONE NUMBER]</p>
+              <p>9109443721</p>
             </div>
           </div>
         </div>
@@ -126,15 +126,15 @@ export default function Home() {
             <div>
               <div style={{ marginBottom: '32px' }}>
                 <h3 style={{ fontSize: '1.25rem', marginBottom: '8px' }}>Email</h3>
-                <p style={{ opacity: 0.8 }}>[OFFICIAL EMAIL]</p>
+                <p style={{ opacity: 0.8 }}>contact@hellosakhee.com</p>
               </div>
               <div style={{ marginBottom: '32px' }}>
                 <h3 style={{ fontSize: '1.25rem', marginBottom: '8px' }}>Phone</h3>
-                <p style={{ opacity: 0.8 }}>[OFFICIAL PHONE]</p>
+                <p style={{ opacity: 0.8 }}>9109443721</p>
               </div>
               <div>
                 <h3 style={{ fontSize: '1.25rem', marginBottom: '8px' }}>Registered Office</h3>
-                <p style={{ opacity: 0.8, lineHeight: '1.5' }}>[VERIFIED REGISTERED OFFICE ADDRESS]</p>
+                <p style={{ opacity: 0.8, lineHeight: '1.5' }}>RAAMIKA SMART SOLUTIONS PRIVATE LIMITED 11D, Floor 4, Cabin 4, Sampat Farms, Opp Agrawal, Bicholi Mardana, Indore, Indore- 452016, Madhya Pradesh</p>
               </div>
             </div>
             <div>

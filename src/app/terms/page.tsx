@@ -43,8 +43,8 @@ export default function TermsOfUse() {
           For any questions regarding these Terms of Use, please contact us at:
         </p>
         <address style={{ fontStyle: 'normal', paddingLeft: '16px', borderLeft: '3px solid var(--color-border)', opacity: 0.9 }}>
-          Email: [OFFICIAL COMPANY EMAIL]<br />
-          Phone: [OFFICIAL PHONE NUMBER]
+          Email: contact@hellosakhee.com<br />
+          Phone: 9109443721
         </address>
       </div>
     </div>

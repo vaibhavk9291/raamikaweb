@@ -37,12 +37,12 @@ export default function PrivacyPolicy() {
 
         <h3 style={{ marginTop: '16px' }}>5. Contact Us</h3>
         <p>
-          If you have questions or comments about this policy, you may email us at [OFFICIAL COMPANY EMAIL] 
+          If you have questions or comments about this policy, you may email us at contact@hellosakhee.com 
           or contact us by post at:
         </p>
         <address style={{ fontStyle: 'normal', paddingLeft: '16px', borderLeft: '3px solid var(--color-border)', opacity: 0.9 }}>
-          Raamika Smart Solutions Private Limited<br />
-          [VERIFIED REGISTERED ADDRESS]<br />
+          RAAMIKA SMART SOLUTIONS PRIVATE LIMITED<br />
+          11D, Floor 4, Cabin 4, Sampat Farms, Opp Agrawal, Bicholi Mardana, Indore, Indore- 452016, Madhya Pradesh<br />
           India
         </address>
       </div>
