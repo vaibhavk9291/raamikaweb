@@ -28,11 +28,9 @@ export default function RootLayout({
         <header className="header">
           <div className="container header-content">
             <div className="logo-container">
-              {/* Replace with actual logo image later */}
-              <div style={{ width: 40, height: 40, backgroundColor: 'var(--color-primary)', display: 'flex', alignItems: 'center', justifyContent: 'center', color: '#c4a777', fontWeight: 'bold', fontSize: '1.5rem', borderRadius: '4px' }}>R</div>
+              <img src="/image.png" alt="Raamika Smart Solutions Logo" style={{ height: '48px', width: 'auto', objectFit: 'contain' }} />
               <div>
                 <div className="logo-text">Raamika Smart Solutions</div>
-                <div className="logo-subtext">Private Limited</div>
               </div>
             </div>
             <nav className="nav-links">

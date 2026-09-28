@@ -1,6 +1,6 @@
 :root {
-  --color-primary: #0a1930; /* Deep navy */
-  --color-accent: #c4a777; /* Muted gold */
+  --color-primary: #041029; /* Deep navy from logo */
+  --color-accent: #D29D42; /* Gold from logo */
   --color-bg: #fdfcf9; /* Warm off-white */
   --color-bg-alt: #f5f3ef; /* Slightly darker warm off-white for cards/sections */
   --color-text: #1a202c; /* Dark slate for readability */
